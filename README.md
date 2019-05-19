@@ -74,10 +74,17 @@ Your product price = `$100`
 
 `0.08` * `100,000` * `$100` = `$800,000` revenue / round.
 
-But this **isn't** your income. :) You must subtract the cost of your product (which is calculated by using the capital flows of your Wardley Map, if you don't have a map, well, you won't know which components costs the most).
+But **this isn't your income.** :) You must subtract the product cost (which is calculated by using the capital flows of your Wardley Map, if you don't have a map, well, you won't know which components costs the most).
+If your product cost is `$80` per product sold, your income would be `$160,000`.
 
 The judges **must** calculate the income each round for each company. The judges **must not** share data between teams.
 _(A good team will understand that they should calculate the other team's income too)_
+
+### Product Cost
+
+Product cost is calculated using the Capital Flows of your Wardley Map.
+
+![Capital Flow Example](https://github.com/simalexan/battlecamp/images/capital-flow.png "Example Capital Flow")
 
 ### Product Price Elasticity
 
