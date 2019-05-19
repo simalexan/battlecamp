@@ -72,7 +72,9 @@ The market size is 100,000 total units sold per quarter (round).
 Your market share = 8% ~ `0.08`
 Your product price = `$100`
 
-`0.08` * `100,000` * `$100` = `$800,000` / round.
+`0.08` * `100,000` * `$100` = `$800,000` revenue / round.
+
+But this **isn't** your income. :) You must subtract the cost of your product (which is calculated by using the capital flows of your Wardley Map, if you don't have a map, well, you won't know which components costs the most).
 
 The judges **must** calculate the income each round for each company. The judges **must not** share data between teams.
 _(A good team will understand that they should calculate the other team's income too)_
