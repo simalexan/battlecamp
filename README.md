@@ -17,6 +17,17 @@ The purpose is to do all of the phases and to practice them.
 
 *Note:* This workshop is a "simulation" of a real-life scenario. Consider it as such, a simulation.
 
+## Requirements to Attend
+
+In order to attend a workshop, you should at least have read the book / wrote several Wardley Maps yourself, read and learned some of the Climactic Patterns, Doctrine and Gameplay. This is an advanced workshop which expects attendees to have at least some real life experience with Wardley Maps.
+
+## Requirements to Organize
+
+In order to organize a workshop yourself, you must have at least play two BattleCamps in the past.
+It's not mandatory, though the rules and the game are complex and require experience with Wardley Maps.
+
+Public and community events must be free, in case you're doing something privately, you are free to charge for your time.
+
 ## Workshop Structure
 
 ### The Goal
