@@ -46,5 +46,69 @@
     "timeCost": "6p (max 1 / turn)",
     "capitalCost": "1 million",
     "benefit": "Gamble 1-6 (0, 2-5%)"
+  },
+  {
+    "title": "Open approaches",
+    "type": "Accelerators",
+    "description": "Encouraging competition through open source, open data, open APIs, open processes by removing barriers to adoption and encouraging a focus for competition.",
+    "timeCost": "2p",
+    "capitalCost": "100,000",
+    "benefit": "-5% cost on a single component evolution for everyone"
+  },
+  {
+    "title": "IPR",
+    "type": "De-accelerators",
+    "description": "Preventing competitors from developing a space including ring fencing a competitor.",
+    "timeCost": "8p (max 2 / turn)",
+    "capitalCost": "200,000",
+    "benefit": "+20% cost a single, owned component for others to adapt"
+  },
+  {
+    "title": "Pig in a poke",
+    "type": "Dealing with Toxicity",
+    "description": "Creating a situation where others believe the toxic asset has long term value and disposing of it through sale before the toxicity reveals itself. <br/> <b>Condition:</b> <br/> This component has to be under the market level.",
+    "timeCost": "20p",
+    "capitalCost": "0",
+    "benefit": "5% cost on a single component adoption, Gain $300,000"
+  },
+  {
+    "title": "Disposal of liability",
+    "type": "Dealing with Toxicity",
+    "description": "Overcoming the internal inertia to disposal. Your own organisation is likely to fight you even when you're trying to get rid of the toxic. <br/> <b>Condition:</b> <br/> The Time Point cost depends on Doctrine levels. Only on components that are behind the market.",
+    "timeCost": "16, 11, 7, 4, 2",
+    "capitalCost": "100,000",
+    "benefit": "-20% cost on a single component adoption"
+  },
+  {
+    "title": "Sweat and Dump",
+    "type": "Dealing with Toxicity",
+    "description": "Exploiting a 3rd party to take over operating the toxic asset whilst you prepare to remove yourself. <br/> <b>Condition:</b> <br/> this component has to be under the market level. you're giving the asset operation to a third party, thus you have to pay extra cost for its usage",
+    "timeCost": "5",
+    "capitalCost": "0",
+    "benefit": "-30% cost on a single component adoption, component cost increase +5%"
+  },
+  {
+    "title": "Differentiation",
+    "type": "Market",
+    "description": "Creating a visible difference through user needs. <br/> <b>Condition:</b> <br/> must be a valid user need. judges decide",
+    "timeCost": "10",
+    "capitalCost": "1.5 million",
+    "benefit": "+2% market share (on total), +2% product cost increase"
+  },
+  {
+    "title": "Pricing policy",
+    "type": "Market",
+    "description": "Exploiting supply and demand effects including price elasticity, Jevons paradox and constraints including fragmentation plays.",
+    "timeCost": "10",
+    "capitalCost": "0",
+    "benefit": "Reducing/Increasing your product price (any value)"
+  },
+  {
+    "title": "Signal Distortion",
+    "type": "Market",
+    "description": "Exploiting commonly used signals in the market by manipulation of analysts to create a perception of change.",
+    "timeCost": "2",
+    "capitalCost": "200,000",
+    "benefit": "false news on moving the PR->UT, CB -> PR, or R->CB"
   }
 ]
