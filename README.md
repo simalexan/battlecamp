@@ -95,3 +95,9 @@ The price is elastic in an easy setting.
 Cards from the first, initial BattleCamp are going to be open source and in the folder `cards`. We will be slowly adding them.
 
 The card data is contained in the `src/cards.json`. You can change the data there and then use `generate-cards.js` to generate a new set of cards with the updated information and in different colors, text, effects and so on.
+
+## Rights
+
+Wardley Maps belong to Simon Wardley.
+
+Battle Camp is following the licenses defined by the Wardley Maps, and is under the CC by SA 4.0 license.
