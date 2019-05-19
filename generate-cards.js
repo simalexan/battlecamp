@@ -1,0 +1,43 @@
+const util = require('util');
+const fs = require('fs');
+
+const CARDS_DATA = 'cards/cards.json';
+const CARD_TEMPLATE = 'cards/card-template.svg',
+  OUTPUT = 'output';
+
+const readFile = util.promisify(fs.readFile),
+  writeFile = util.promisify(fs.writeFile),
+  rename = util.promisify(fs.rename);
+
+async function readCards() {
+  const cardsResponse = await readFile(CARDS_DATA, 'utf8');
+  return JSON.parse(cardsResponse);
+}
+
+async function replaceCardData(fileContents, args, card) {
+  let replacedContents = fileContents;
+  args.forEach(argumentName => {
+    const argumentSearch = `{{${argumentName}}}`;
+    replacedContents = replacedContents.replace(new RegExp(argumentSearch, 'g'), card[argumentName]);
+  });
+  return replacedContents;
+}
+
+async function generateCard(card, template, index, output){
+  const fileName = `${output}/card-${index}.svg`;
+  let cardContents = await replaceCardData(template, Object.keys(card), card);
+  let tmpfile = `${fileName}.jstmpreplace`;
+  await writeFile(tmpfile, cardContents, 'utf8');
+  await rename(tmpfile, fileName);
+}
+
+async function generateCards(){
+  const cards = await readCards();
+  const template = await readFile(CARD_TEMPLATE, 'utf8');
+  cards.forEach(async (card, index) =>{
+    return await generateCard(card, template, index+1, OUTPUT)
+  });
+  return true;
+};
+
+generateCards();

@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Education",
+    "type": "User Perception",
+    "description": "Overcoming user inertia to a change through education. There are 16 different forms of inertia and many can be overcome directly with education. <br /><br />Don't underestimate this.",
+    "timeCost": "10 points",
+    "capitalCost": "1 million",
+    "benefit": "+2% for your marketshare"
+  }
+]

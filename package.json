@@ -1,0 +1,12 @@
+{
+  "name": "battlecamp",
+  "version": "1.0.0",
+  "description": "## BattleCamp Cards",
+  "main": "generate-cards.js",
+  "scripts": {
+    "build": "node generate-cards.js"
+  },
+  "keywords": [],
+  "author": "Aleksandar Simovic <alexander.simovic@gmail.com>",
+  "license": "CC-BY-SA-4.0"
+}
