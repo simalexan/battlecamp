@@ -1,4 +1,4 @@
-# BattleCamp
+# Wardley Maps BattleCamp
 
 A Wardley Map BattleCamp is an advanced Wardley Map workshop dedicated to teaching and training people (and robots!) to do Gameplay. It's purpose is to show that there are other important phases of the Wardley Map Strategy Cycle, such as "Climactic Patterns", "Doctrine" and "Gameplay".
 
