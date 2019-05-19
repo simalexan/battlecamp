@@ -4,7 +4,7 @@ A Wardley Map BattleCamp is an advanced Wardley Map workshop dedicated to teachi
 
 The **focus** of this workshop is **on playing the "game"**. It's goal is to help attendees to utilize all of the phases of Warley Map Strategy Cycle and understand that you will be doing all of the phases in a real-life scenario.
 
-**You will do all of the phases**.
+**You should do all of the phases**.
 
 Not:
 
@@ -60,7 +60,26 @@ Each company has three main resources.
 2. Capital (represented in cash, e.g. dollars)
 3. Marketshare (represented in percentages)
 
-All companies operate in a single market developing a single product.
+All companies operate in a single market developing a single product. 
+
+#### Market and Income
+
+The market size is 100,000 total units sold per quarter (round).
+
+`Marketshare` * `the total market size` * `your product price` = `your revenue you have made`.
+
+*Example:*
+Your market share = 8% ~ `0.08`
+Your product price = `$100`
+
+`0.08` * `100,000` * `$100` = `$800,000` / round.
+
+The judges **must** calculate the income each round for each company. The judges **must not** share data between teams.
+_(A good team will understand that they should calculate the other team's income too)_
+
+### Product Price Elasticity
+
+The price is elastic in an easy setting.
 
 ## BattleCamp Cards
 
