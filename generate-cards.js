@@ -1,9 +1,9 @@
 const util = require('util');
 const fs = require('fs');
 
-const CARDS_DATA = 'cards/cards.json';
-const CARD_TEMPLATE = 'cards/card-template.svg',
-  OUTPUT = 'output';
+const CARDS_DATA = 'src/cards.json';
+const CARD_TEMPLATE = 'src/card-template.svg',
+  OUTPUT = 'cards';
 
 const readFile = util.promisify(fs.readFile),
   writeFile = util.promisify(fs.writeFile),
