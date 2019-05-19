@@ -3,7 +3,7 @@
     "title": "Education",
     "type": "User Perception",
     "description": "Overcoming user inertia to a change through education. There are 16 different forms of inertia and many can be overcome directly with education. <br /><br />Don't underestimate this.",
-    "timeCost": "10 points",
+    "timeCost": "10p",
     "capitalCost": "1 million",
     "benefit": "+2% for your marketshare"
   },
@@ -11,7 +11,7 @@
     "title": "Creating Artificial Needs",
     "type": "User Perception",
     "description": "Creating and elevating an artificial need through marketing and behavioural influence. Take a rock and make it a pet etc.",
-    "timeCost": "7 points",
+    "timeCost": "7p",
     "capitalCost": "1.5 million",
     "benefit": "+2% for your marketshare"
   },
@@ -19,7 +19,7 @@
     "title": "Confusion of choice",
     "type": "User Perception",
     "description": "Preventing users from making rational decisions by overwhelming them with choice.",
-    "timeCost": "15 points",
+    "timeCost": "15p",
     "capitalCost": "0.7 million",
     "benefit": "-5% to your competitors marketshare"
   },
@@ -27,7 +27,7 @@
     "title": "Fear Uncertainty and Doubt",
     "type": "User Perception",
     "description": "Creating fear, uncertainty and doubt over a change in order to slow it down. Often used to slow evolution by exploiting inertia to change within customers and forcing new entrants to divert energy away from the components and into countering the accusations.",
-    "timeCost": "14 points",
+    "timeCost": "14p",
     "capitalCost": "0.5 million",
     "benefit": "+20% cost increase for a single component evolution from product to utility."
   },
@@ -35,7 +35,7 @@
     "title": "Artificial Competition",
     "type": "User Perception",
     "description": "Spawning fake competitor companies with similar products. Creating two competing bodies to become the focus of competition and in effect driving oxygen out of a market.",
-    "timeCost": "30 points",
+    "timeCost": "30p",
     "capitalCost": "1.5 million",
     "benefit": "-5% to your competitors marketshare"
   },
@@ -43,7 +43,7 @@
     "title": "Lobbying Counterplay",
     "type": "User Perception",
     "description": "Persuading Government of a favorable position",
-    "timeCost": "6 points (max 1 per turn)",
+    "timeCost": "6p (max 1 / turn)",
     "capitalCost": "1 million",
     "benefit": "Gamble 1-6 (0, 2-5%)"
   }
