@@ -90,6 +90,16 @@ Product cost is calculated using the Capital Flows of your Wardley Map.
 
 The price is elastic in an easy setting.
 
+### Evolution versus Adoption
+
+_"Everything evolves"_ - one of Simon's Climactic Patterns.
+
+Depending on your position on the market, you may want to either evolve or adopt a newly evolved product. Being a first (and fast) follower might be good enough. (e.g. Microsoft following Amazon's lead).
+
+If a certain component is in its Product phase, you may want to evolve it to Utility first and gain competitive advantage, build a tower of income around it ("Tower and Moat") or you may want to wait for someone to evolve it first and then focus on building on top ("Building Higher Order Value").
+
+Evolving a component always costs more and takes more effort than adopting.
+
 ## BattleCamp Cards
 
 Cards from the first, initial BattleCamp are going to be open source and in the folder `cards`. We will be slowly adding them.
