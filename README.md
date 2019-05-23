@@ -55,7 +55,7 @@ After the 5 minute time limit, the judges then enter the separate rooms and with
 
 In the next 1-2 minutes, the judges evaluate the gameplays and approve or deny (if the move is just a card play without describing the move its immediatelly rejected.)
 
-### Structure
+### Team (Company) Structure
 
 Each company has three main resources.
 
