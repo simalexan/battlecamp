@@ -65,6 +65,18 @@ Each company has three main resources.
 
 All companies operate in a single market developing a single product. 
 
+### Scenario
+
+The judges choose a single market along with a single product the companies are competing in. They define the market price of the product (e.g. $50) and they draw a Wardley Map based on the Customer need, the product that fulfills that Customer need and its value chain.
+
+#### Example scenario from the first BattleCamp
+
+For example, the first BattleCamp, organized by Map Meetup Belgrade, chose the healthcare industry, more specifically flue vaccinations. Defined a market without a public healthcare system and two teams that were playing the BattleCamp were two healtcare clinics that were administering and selling a flu vaccine with an average market cost of $100.
+
+The first company was long-running business, with over 50 years. Family made business, with their own "custom built" offices and laboratories. They have hired nurses, lab assistants and doctors. They also have bought an application on the market for the clinic, to schedule vaccination appointments, communicate with the customers and so on. Charging $120 per flue therapy, with a product cost of $70. Their market share is 18%.
+
+The second company is a recently started business, a clinic with about 5 years on the market. Rents its office space and lab space. Has hired nurses, lab assistants and doctors. Have developed their own application for the clinic with similar options as their competitor, they "believe they are a healtcare tech startup". Charging $100 per flue therapy, with a cost of $55. Their marketshare is 7%.
+
 #### Market and Income
 
 The market size is 100,000 total units sold per quarter (round).
