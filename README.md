@@ -32,7 +32,7 @@ Public and community events must be free, in case you're doing something private
 
 ### The Goal
 
-To Win. To be the dominant company in the given market.
+To Win. To be the dominant company in the given market, meaning around 60% of the marketshare.
 
 ### Your role and the attendee structure
 
@@ -49,8 +49,11 @@ Each company team belongs to a single company, which is doing business in a sing
 
 ### Game structure
 
-Turn based. Simultaneous turns. Max 40 rounds.
-The teams need to be in different rooms.
+Turn based. Max 40 rounds. Each round lasts for 5 minutes (simultaneous rounds). The teams need to be in different rooms.
+
+After the 5 minute time limit, the judges then enter the separate rooms and without sharing any info get the plays from the teams.
+
+In the next 1-2 minutes, the judges evaluate the gameplays and approve or deny (if the move is just a card play without describing the move its immediatelly rejected.)
 
 ### Structure
 
@@ -102,9 +105,13 @@ Evolving a component always costs more and takes more effort than adopting.
 
 ## BattleCamp Cards
 
+**BattleCamp Gameplay cards are guides for gameplay and should be only viewed as such.** In real life there is no "do a play and gain 5% of marketshare". That doesn't exist and never look at it like that. If someone asks or tells that they tried "the play and didn't get that 5% of the marketshare" shouldn't ever play games.
+
 Cards from the first, initial BattleCamp are going to be open source and in the folder `cards`. We will be slowly adding them.
 
 The card data is contained in the `src/cards.json`. You can change the data there and then use `generate-cards.js` to generate a new set of cards with the updated information and in different colors, text, effects and so on.
+
+Any constructive suggestion in improving the balance or demonstrating a higher / lower value of a card gameplay is always welcome and appreciated.
 
 ## Rights
 
