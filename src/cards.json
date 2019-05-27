@@ -110,5 +110,77 @@
     "timeCost": "2",
     "capitalCost": "200,000",
     "benefit": "false news on moving the PR->UT, CB -> PR, or R->CB"
+  },
+  {
+    "title": "Threat acquisition",
+    "type": "Defensive",
+    "description": "Buying up those companies that may threaten your market. <br/> <b>Condition:</b> <br/> Depends on the phase.",
+    "timeCost": "N/A, 10, 20, N/A",
+    "capitalCost": "0 ,10m, 20m, 0",
+    "benefit": "increase cost on moving from product to commodity, custom built to product 30% for one component of choice"
+  },
+  {
+    "title": "Raising barriers to entry",
+    "type": "Defensive",
+    "description": "Increasing expectations within a market for a range of user needs to be met in order to prevent others entering the market.",
+    "timeCost": "20p",
+    "capitalCost": "2,5 million",
+    "benefit": "increase cost on moving from product to commodity, custom built to product 30% for one component of choice"
+  },
+  {
+    "title": "Procrastination",
+    "type": "Defensive",
+    "description": "Do nothing",
+    "timeCost": "10p",
+    "capitalCost": "0",
+    "benefit": "Wait, Accumulate Cash"
+  },
+  {
+    "title": "Defensive regulation",
+    "type": "Defensive",
+    "description": "Using Government's to create protection for your market and slow down competitors.",
+    "timeCost": "3 (1/turn)",
+    "capitalCost": "0.5 million",
+    "benefit": "Negate competitor's next move positive marketshare gain."
+  },
+  {
+    "title": "Directed investment",
+    "type": "Attacking",
+    "description": "VC approach to a specific or identified future change (any component - future / past)",
+    "timeCost": "10",
+    "capitalCost": "+20% the component cost",
+    "benefit": "-30% cost for moving a single component from product to commodity and CB to product"
+  },
+  {
+    "title": "Experimentation",
+    "type": "Attacking",
+    "description": "VC approach to a specific or identified future change (any component - future / past)",
+    "timeCost": "10",
+    "capitalCost": "+20% the component cost",
+    "benefit": "-30% cost for moving a single component from product to commodity and CB to product"
+  },
+  {
+    "title": "Creating centers of gravity",
+    "type": "Attacking",
+    "description": "Creating a focus of talent to encourage a market focus on your organisation",
+    "timeCost": "12 (4 turns min)",
+    "capitalCost": "0.5m",
+    "benefit": "+4% marketshare <br> -10% adoption cost for everyone to adopt your advanced component"
+  },
+  {
+    "title": "Undermining barriers to entry",
+    "type": "Attacking",
+    "description": "Identifying a barrier to entry into a market and reducing it to encourage competition. <br/> <b>Condition:</b> <br/> Your chosen component is in front of the market.",
+    "timeCost": "2p",
+    "capitalCost": "0.5m",
+    "benefit": "+5% on your marketshare (based on the current one) <br> -30% cost for everyone to adopt your advanced component."
+  },
+  {
+    "title": "Sensing Engines (ILC)",
+    "type": "Ecosystem",
+    "description": "A mechanism of being the first mover to industrialise a component, allowing others (the ecosystem) to build new industries upon it and then using consumption data to determine candidates for industrialisation. <br/> <b>Condition:</b> <br/> Only applicable on Product type components.",
+    "timeCost": "20p",
+    "capitalCost": "5 million",
+    "benefit": "-50% cost on evolving one <br> component from Product <br> to Commodity"
   }
 ]
