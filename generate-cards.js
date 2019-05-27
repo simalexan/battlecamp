@@ -24,6 +24,7 @@ async function replaceCardData(fileContents, args, card) {
 }
 
 async function generateCard(card, template, index, output){
+  if (index < 10) index = `0${index}`;
   const fileName = `${output}/${index}-${card.title.toLowerCase().replace(new RegExp(' ', 'g'), '-')}.svg`;
   let cardContents = await replaceCardData(template, Object.keys(card), card);
   let tmpfile = `${fileName}.jstmpreplace`;
