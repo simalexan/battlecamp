@@ -165,7 +165,7 @@
     "description": "Creating a focus of talent to encourage a market focus on your organisation",
     "timeCost": "12 (4 turns min)",
     "capitalCost": "0.5m",
-    "benefit": "+4% marketshare <br> -10% adoption cost for everyone to adopt your advanced component"
+    "benefit": "+4% marketshare <br/> -10% adoption cost for everyone to adopt your advanced component"
   },
   {
     "title": "Undermining barriers to entry",
