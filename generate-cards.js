@@ -24,7 +24,7 @@ async function replaceCardData(fileContents, args, card) {
 }
 
 async function generateCard(card, template, index, output){
-  const fileName = `${output}/card-${index}.svg`;
+  const fileName = `${output}/${index}-${card.title.toLowerCase().replace(new RegExp(' ', 'g'), '-')}.svg`;
   let cardContents = await replaceCardData(template, Object.keys(card), card);
   let tmpfile = `${fileName}.jstmpreplace`;
   await writeFile(tmpfile, cardContents, 'utf8');
