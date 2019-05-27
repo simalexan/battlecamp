@@ -144,10 +144,10 @@
           <div xmlns="http://www.w3.org/1999/xhtml"
             style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 208px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml"
-              style="display:inline-block;text-align:inherit;text-decoration:inherit;">-50% cost on evolving one <br> component from Product <br> to Commodity</div>
+              style="display:inline-block;text-align:inherit;text-decoration:inherit;">-50% cost on evolving one <br/> component from Product <br/> to Commodity</div>
           </div>
         </foreignObject><text x="104" y="19" fill="#000000" text-anchor="middle" font-size="18px"
-          font-family="Helvetica">-50% cost on evolving one <br> component from Product <br> to Commodity
+          font-family="Helvetica">-50% cost on evolving one <br/> component from Product <br/> to Commodity
         </text>
       </switch>
     </g>
