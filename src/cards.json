@@ -182,5 +182,13 @@
     "timeCost": "20p",
     "capitalCost": "5 million",
     "benefit": "-50% cost on evolving one <br/> component from Product <br/> to Commodity"
+  },
+  {
+    "title": "Ambush (Tech Drops)",
+    "type": "Competitor",
+    "description": "Creating a 'follow me' situation and dropping large technology changes onto the market. <br/> Making the news, side effect is forcing others to follow.",
+    "timeCost": "2p",
+    "capitalCost": "200,000",
+    "benefit": "+10% on your marketshare <br/> (based on the current one)"
   }
 ]
