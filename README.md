@@ -129,4 +129,11 @@ Any constructive suggestion in improving the balance or demonstrating a higher /
 
 Wardley Maps belong to Simon Wardley.
 
-Battle Camp is following the licenses defined by the Wardley Maps, and is under the CC by SA 4.0 license.
+BattleCamp is following the licenses defined by the Wardley Maps, and is under the CC by SA 4.0 license.
+
+## Credits & Contributions
+
+BattleCamp wouldn't be possible without the help of several people, where I'd particularly mention two great fellow guys both with a same name and surname.
+
+- [Aleksandar Milosevic](https://www.linkedin.com/in/aleksandar-milo%C5%A1evi%C4%87/) (a Belgrade based Project Manager, Agile practitioner, Cynefin researcher)
+- [Aleksandar Milosevic](https://twitter.com/Gornador) (a Belgrade based Project Manager, Game Theory researcher and a Board Game Designer)
