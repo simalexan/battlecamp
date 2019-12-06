@@ -63,7 +63,7 @@ Each company has three main resources.
 2. Capital (represented in cash, e.g. dollars)
 3. Market share (represented in percentages)
 
-All companies operate in a single market developing a single product. 
+All companies operate in a single market developing a single product.
 
 ### Scenario
 
