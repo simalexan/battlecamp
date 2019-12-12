@@ -20,7 +20,7 @@ Naturally, every country has a set of constraints, which may or may not be helpf
 
 ### Low Public Rating
 
-If the public's trust in your work is compromised, reducing it below the needed threshold, the Government will replace you, disqualifying you.
+If the public's trust in your work is compromised, falling below a certain threshold, the Government will replace you, disqualifying you.
 
 ### Low Internal Government Rating
 
