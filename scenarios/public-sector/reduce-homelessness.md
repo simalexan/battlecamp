@@ -57,7 +57,7 @@ Each government agency has three main resources.
 
 1. Time (represented in points, each team has 10 time points per round)
 2. Capital (represented in taxpayer money, as a currency)
-3. Homelessness (represented in percentages)
+3. Homelessness (represented in percentages - replaces marketshare from the standard commercial scenario, and the scale is reverse too)
 
 All three government agencies operate in different and separate countries.
 
