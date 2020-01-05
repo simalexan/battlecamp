@@ -20,11 +20,27 @@ Naturally, every country has a set of constraints, which may or may not be helpf
 
 ### Low Public Rating
 
-If the public's trust in your work is compromised, falling below a certain threshold, the Government will replace you, disqualifying you.
+If the public's trust in your work is compromised, falling below a certain threshold, the Government will replace you, disqualifying you. Teams will have different public ratings depending on their assigned:
+
+1.[78/100] The public holds a view that your actions are helping the homeless, fixing the society, but there is still work to be done.
+2. [32/100] The public is suspicious you are doing anything useful.
+3. [54/100] The public sees your actions, but nothing to be applauded for.
 
 ### Low Internal Government Rating
 
 If your internal government rating falls below a certain threshold, as someone might be undermining you (they want your budget), the Government shall replace you and your team, disqualifing you.
+
+### Public's view of the homeless
+
+In a certain case, you can also include the constraint "public's view of the homeless", which will impact your budget and the both ratings significantly.
+
+The public's view of the homeless can be:
+
+- "most homeless people are without shelter because of circumstances beyond their control"
+- "homeless should be helped but not at the cost of the other priorities"
+- "homeless people should be able to fend for themselves"
+
+These views can be fixed or modifiable, but they will apply a certain positive or negative bonus to any gameplay that involves public rating.
 
 ## Metrics
 
@@ -45,7 +61,7 @@ Each government agency has three main resources.
 
 All three government agencies operate in different and separate countries.
 
-Taxpayer money - units, $1000 per taxpayer a good measure for spending capital 
+Taxpayer money - units, $1000 per taxpayer a good measure for spending capital.
 
 ## Random Events
 
