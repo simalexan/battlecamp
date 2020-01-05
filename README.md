@@ -100,6 +100,7 @@ _(A good team will understand that they should calculate the other team's income
 Product cost is calculated using the Capital Flows of your Wardley Map.
 
 ![Capital Flow Example](/images/capital-flow.jpg "Example Capital Flow")
+Capital Flow Wardley Map Copyright @ Simon Wardley
 
 ### Product Price Elasticity
 
