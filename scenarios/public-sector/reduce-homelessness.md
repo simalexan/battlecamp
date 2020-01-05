@@ -69,7 +69,7 @@ Taxpayer money - units, $1000 per taxpayer a good measure for spending capital.
 - Housing and social service budget cuts (minor budget cut for a short period of time)
 - Market failure causing an economic crisis (a massive budget cut and an increase of homeless people)
 - State increase of rent, increasing your budget, but also the number of homeless people
-- Political play aimed at your department, "wasting budget". (slight loss of the public and minor internal government rating)
+- Political play aimed at your department, "wasting budget". (slight loss of the public and minor internal government rating)- Introduction of a law on the criminalization of homeless
 
 ## Rights
 
