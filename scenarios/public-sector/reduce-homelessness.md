@@ -22,7 +22,7 @@ Naturally, every country has a set of constraints, which may or may not be helpf
 
 If the public's trust in your work is compromised, falling below a certain threshold, the Government will replace you, disqualifying you. Teams will have different public ratings depending on their assigned:
 
-1.[78/100] The public holds a view that your actions are helping the homeless, fixing the society, but there is still work to be done.
+1. [78/100] The public holds a view that your actions are helping the homeless, fixing the society, but there is still work to be done.
 2. [32/100] The public is suspicious you are doing anything useful.
 3. [54/100] The public sees your actions, but nothing to be applauded for.
 
