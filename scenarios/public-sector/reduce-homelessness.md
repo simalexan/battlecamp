@@ -51,7 +51,7 @@ There will be several key metrics, based on which your team's success will be me
 - your team's public ratings [0-100] (max)
 - your team's internal government ratings [0-100] (max)
 
-## Team (Governemnt Agency) Structure
+## Team (Government Agency) Structure
 
 Each government agency has three main resources.
 
@@ -65,11 +65,13 @@ Taxpayer money - units, $1000 per taxpayer a good measure for spending capital.
 
 ## Random Events
 
-- Natural disaster (increasing the number of homeless people)
+- Natural disasters (increasing the number of homeless people)
 - Housing and social service budget cuts (minor budget cut for a short period of time)
 - Market failure causing an economic crisis (a massive budget cut and an increase of homeless people)
 - State increase of rent, increasing your budget, but also the number of homeless people
-- Political play aimed at your department, "wasting budget". (slight loss of the public and minor internal government rating)- Introduction of a law on the criminalization of homeless
+- Political play aimed at your department, "wasting budget newspaper headlines". (slight loss of the public and minor internal government rating)
+- Introduction of a law on the criminalization of homeless
+- A scandal involving your government
 
 ## Rights
 
