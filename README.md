@@ -106,7 +106,17 @@ Capital Flow Wardley Map Copyright @ Simon Wardley
 
 The price is elastic in a standard setting.
 
-### Game Modes
+### Evolution versus Adoption
+
+_"Everything evolves"_ - one of Simon's Climactic Patterns.
+
+Depending on your position on the market, you may want to either evolve or adopt a newly evolved product. Being a first (and fast) follower might be good enough. (e.g. Microsoft following Amazon's lead).
+
+If a certain component is in its Product phase, you may want to evolve it to Utility first and gain competitive advantage, build a tower of income around it ("Tower and Moat") or you may want to wait for someone to evolve it first and then focus on building on top ("Building Higher Order Value").
+
+Evolving a component always costs more and takes more effort than adopting.
+
+## Game Modes
 
 There are currently three game modes to BattleCamp:
 
@@ -117,16 +127,6 @@ There are currently three game modes to BattleCamp:
   Everything applies, product price is elastic. Everything has a cost.
 
 3. All on One (super hard, NDA - will be added soon)
-
-### Evolution versus Adoption
-
-_"Everything evolves"_ - one of Simon's Climactic Patterns.
-
-Depending on your position on the market, you may want to either evolve or adopt a newly evolved product. Being a first (and fast) follower might be good enough. (e.g. Microsoft following Amazon's lead).
-
-If a certain component is in its Product phase, you may want to evolve it to Utility first and gain competitive advantage, build a tower of income around it ("Tower and Moat") or you may want to wait for someone to evolve it first and then focus on building on top ("Building Higher Order Value").
-
-Evolving a component always costs more and takes more effort than adopting.
 
 ## BattleCamp Cards
 
