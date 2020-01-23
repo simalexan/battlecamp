@@ -130,7 +130,7 @@ Evolving a component always costs more and takes more effort than adopting.
 
 ## BattleCamp Cards
 
-**BattleCamp Gameplay cards are guides for gameplay and should be only viewed as such.** In real life there is no "do a play and gain 5% of marketshare". That doesn't exist and never look at it like that. If someone asks or tells that they tried "the play and didn't get that 5% of the marketshare" shouldn't ever play games.
+**BattleCamp Gameplay cards are guides for gameplay and should be only viewed as such.** In real life there is no "do a play and gain 5% of marketshare". That doesn't exist and never look at it like that. If someone asks or tells that they tried "the play and didn't get that 5% of the marketshare" they shouldn't ever play games.
 
 Cards from the first, initial BattleCamp are going to be open source and in the folder `cards`. We will be slowly adding them.
 
