@@ -104,7 +104,19 @@ Capital Flow Wardley Map Copyright @ Simon Wardley
 
 ### Product Price Elasticity
 
-The price is elastic in an easy setting.
+The price is elastic in a standard setting.
+
+### Game Modes
+
+There are currently three game modes to BattleCamp:
+
+1. BabyMode (the easiest)
+  No finances / capital flows, product cost, revenue. Main purpose is to learn the basics of gameplay moves, get the feeling of what does a move do.
+
+2. Standard (normal)
+  Everything applies, product price is elastic. Everything has a cost.
+
+3. All on One (super hard, NDA - will be added soon)
 
 ### Evolution versus Adoption
 
