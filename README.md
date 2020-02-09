@@ -124,9 +124,12 @@ There are currently three game modes to BattleCamp:
   No finances / capital flows, product cost, revenue. Main purpose is to learn the basics of gameplay moves, get the feeling of what does a move do.
 
 2. Standard (normal)
-  Everything applies, product price is elastic. Everything has a cost.
+  Everything applies, product price is elastic. Everything has a cost. You get the initial Wardley Map of the average company in your company's history. 
 
-3. All on One (super hard, NDA - will be added soon)
+3. RealMode (normal)
+  Everything applies, product price is elastic. Everything has a cost. You have to draw your company's Wardley Map yourself, if you're wrong, the judges aren't allowed to tell you and you will _"pay the price"_
+
+4. All on One (super hard, NDA - will be added soon)
 
 ## BattleCamp Cards
 
