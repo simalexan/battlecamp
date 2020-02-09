@@ -1,25 +1,23 @@
 # Wardley Maps BattleCamp
 
-A Wardley Map BattleCamp is an advanced Wardley Map workshop dedicated to teaching and training people (and robots!) to do Gameplay. Its purpose is to show that there are other important phases of the Wardley Map Strategy Cycle, such as "Climatic Patterns", "Doctrine" and "Gameplay".
+A Wardley Map BattleCamp is an advanced Wardley Map workshop dedicated to teaching and training people (and robots!) to do Business Strategic Gameplay. It's outcome is to get a group of people that are well experienced and comfortable in collaboratively mapping strategic gameplay moves. While in an unknown, uncharted setting.
 
-The **focus** of this workshop is **on playing the "game"**. Its goal is to help attendees to utilize all of the phases of Wardley Map Strategy Cycle and understand that you will be doing all of the phases in a real-life scenario.
-
-**You should do all of the phases**.
-
-Not:
-
-- "I'm just going to do a gameplay move"
-- "I'm just going to do a map"
-- "I'm just going to predict based on a map and some climatic patterns"
-- "I'm just going to optimize a bit my company using the Doctrines"
-
-The purpose is to do all of the phases and to practice them.
+We should all learn to do all of the Wardley Maps phases and to practice them. Additionaly, help your workshop attendees learn to play collaboratively, in a real-life scenario.
 
 *Note:* This workshop is a "simulation" of a real-life scenario. Consider it as such, a simulation.
 
 ## Requirements to Attend
 
-In order to attend a workshop, you should at least have read the book / created several Wardley Maps yourself, read and learned some of the Climatic Patterns, Doctrine and Gameplay. This is an advanced workshop which expects attendees to have at least some real-life experience with Wardley Maps.
+This is an advanced workshop which expects attendees to have at least some real-life experience with Wardley Maps.
+In order to attend a workshop, you should have, at least:
+
+- read the book,
+- created several Wardley Maps yourself, alone
+- read and learned some of the Climatic Patterns, Doctrine and Gameplay.
+
+*or*
+
+- completed 100% of the Leading Edge Forum's course on Wardley Mapping
 
 ## Requirements to Organize
 
