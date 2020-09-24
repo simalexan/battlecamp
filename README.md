@@ -38,9 +38,7 @@ Public and community events must be free. In case doing something privately, you
 
 ### The Goal
 
-**To Win.**
-
-Depending on the context, the goal means different things.
+**To Win.** Depending on the context, the goal means different things.
 
 ### Commercial goals
 
@@ -50,7 +48,7 @@ Depending on the context, the goal means different things.
 
 **Secondary.** Be the dominant company in the given market, meaning around 60% of the marketshare.
 
-### Public sector goals
+## Public sector goals
 
 ---
 
@@ -61,9 +59,11 @@ This goal actually means:
 - With the lowest cost (provide the most value for a single tax dollar / pound / euro),
 - With the biggest usage
 
-*Note.* Even the best service or a product that solves user needs but doesn't gain any public usage provides **zero** value.
+**Note.** Even the best service or a product that solves user needs but doesn't gain any public usage provides **zero** value.
 
 ### Your role and the attendee structure
+
+---
 
 You are a company board member.
 
