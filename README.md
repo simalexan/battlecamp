@@ -6,6 +6,14 @@ We should all learn to do all of the Wardley Maps phases and to practice them. A
 
 *Note:* This workshop is a "simulation" of a real-life scenario. Consider it as such, a simulation.
 
+- [The Goal](#the-goal)
+- [Game Structure](#game-structure)
+- [Scenario](#scenario)
+- [Game Modes](#game-modes)
+- [BattleCamp Leagues](#battlecamp-leagues)
+- [BattleCamp Cards](#battlecamp-cards)
+- [Rights & Credit](#rights)
+
 ## Requirements to Attend
 
 This is an advanced workshop which expects attendees to have at least some real-life experience with Wardley Maps.
@@ -21,16 +29,35 @@ In order to attend a workshop, you should have, at least:
 
 ## Requirements to Organize
 
-In order to organize a workshop yourself, you must have at least played two BattleCamps in the past.
-It's not mandatory, though the rules and the game are complex and require experience with Wardley Maps.
+In order to organize a workshop yourself, you must have at least played *two BattleCamps* in the past.
+It's not mandatory, though the rules and the game are complex and require significant experience with Wardley Maps.
 
-Public and community events must be free, in case you're doing something privately, you are free to charge for your time.
+Public and community events must be free. In case doing something privately, you are free to charge for your time.
 
 ## Workshop Structure
 
 ### The Goal
 
-To Win. To be the dominant company in the given market, meaning around 60% of the marketshare.
+**To Win.**
+
+Depending on the context, the goal means different things.
+
+#### Commercial goals
+
+**Primary.** Be the most profitable company, in a given scenario. Provide the biggest amount of profit.
+
+**Secondary.** Be the dominant company in the given market, meaning around 60% of the marketshare.
+
+#### Public sector goals
+
+Deliver the best, low cost public service possible, in a given scenario.
+This goal actually means:
+
+- Provide the best service for the user needs,
+- With the lowest cost (provide the most value for a single tax dollar / pound / euro),
+- With the biggest usage
+
+*Note.* Even the best service or a product that solves user needs but doesn't gain any public usage provides **zero** value.
 
 ### Your role and the attendee structure
 
@@ -129,6 +156,16 @@ There are currently three game modes to BattleCamp:
 
 4. All on One (super hard, NDA - will be added soon)
 
+## BattleCamp Leagues
+
+Public and community BattleCamp workshops are part of the open and global BattleCamp Leagues, unless explicitly stated by the organizers that they don't want to participate in the rankings.
+
+Each participation brings one point, with addition of being the member of a winning team, bringing two points more. Also, an additional point if the scenario type is a public sector one.
+
+The rankings are on a player basis and team basis. There are different rankings depending if the team is random or a predefined one.
+
+More information on BattleCamp Leagues will come soon.
+
 ## BattleCamp Cards
 
 **BattleCamp Gameplay cards are guides for gameplay and should be only viewed as such.** In real life there is no "do a play and gain 5% of marketshare". That doesn't exist and never look at it like that. If someone asks or tells that they tried "the play and didn't get that 5% of the marketshare" they shouldn't ever play games.
@@ -143,7 +180,9 @@ Any constructive suggestion in improving the balance or demonstrating a higher /
 
 Wardley Maps belong to Simon Wardley.
 
-BattleCamp is following the licenses defined by the Wardley Maps, and is under the CC by SA 4.0 license.
+BattleCamp follows the licenses defined by the Wardley Maps, and is under the CC by SA 4.0 license.
+
+BattleCamp is created by [Aleksandar Simovic](https://www.linkedin.com/in/simalexan/).
 
 ## Credits & Contributions
 
