@@ -42,13 +42,17 @@ Public and community events must be free. In case doing something privately, you
 
 Depending on the context, the goal means different things.
 
-#### Commercial goals
+### Commercial goals
+
+---
 
 **Primary.** Be the most profitable company, in a given scenario. Provide the biggest amount of profit.
 
 **Secondary.** Be the dominant company in the given market, meaning around 60% of the marketshare.
 
-#### Public sector goals
+### Public sector goals
+
+---
 
 Deliver the best, low cost public service possible, in a given scenario.
 This goal actually means:
@@ -73,6 +77,8 @@ Each company team belongs to a single company, which is doing business in a sing
 **Two or three teams of random team members. Minimum 3 members per team. Equal members per team.**
 
 ### Game structure
+
+---
 
 Turn based. Max 40 rounds. Each round lasts for 5 minutes (simultaneous rounds). The teams need to be in different rooms.
 
