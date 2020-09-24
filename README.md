@@ -38,19 +38,15 @@ Public and community events must be free. In case doing something privately, you
 
 ### The Goal
 
-**To Win.** Depending on the context, the goal means different things.
+**To Win.** Depending on the context, the goal can mean different things and outcomes.
 
-### Commercial goals
-
----
+## Commercial goals
 
 **Primary.** Be the most profitable company, in a given scenario. Provide the biggest amount of profit.
 
 **Secondary.** Be the dominant company in the given market, meaning around 60% of the marketshare.
 
 ## Public sector goals
-
----
 
 Deliver the best, low cost public service possible, in a given scenario.
 This goal actually means:
